@@ -39,7 +39,7 @@ Git follows a three-stage workflow:
 
 ## Adding Files to Staging Area
 
-The `git add` command moves files from your working directory to the staging area (not directly to remote repository as your notes suggested).
+The `git add` command moves files from your working directory to the staging area (not directly to remote repository).
 
 ### Add a specific file:
 ```bash
